@@ -1,0 +1,7 @@
+Application:
+Client ID - vrd9jxv1kwcz7x5shslac31ob6pjx6
+Secret - diagij48v92mnowq13gci7cl1d1tj7
+
+Bot: 
+ACCESS TOKEN - abqxt096j5gcnysc7w8meq7ogxiuwu
+REFRESH TOKEN - h46w3wm071sv1m21k9o7mfkpfo80wz5gqssfo3z9rp6htdzvcx
